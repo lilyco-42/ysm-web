@@ -1,0 +1,31 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "hold_mainhand": {
+      "loop": true,
+      "animation_length": 1.0,
+      "bones": {
+        "RightArm": {
+          "rotation": [
+            -20,
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "hold_offhand": {
+      "loop": true,
+      "animation_length": 1.0,
+      "bones": {
+        "LeftArm": {
+          "rotation": [
+            -20,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  }
+}
